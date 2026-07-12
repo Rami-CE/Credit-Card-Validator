@@ -10,7 +10,6 @@ A C program that validates credit card numbers using **Luhn's Algorithm** and id
   - MasterCard
   - Visa
 - Input validation
-- Modular design using helper functions
 
 ## Technologies
 
