@@ -22,4 +22,4 @@ A C program that validates credit card numbers using **Luhn's Algorithm** and id
 gcc credit.c -o credit
 ```
 ## Information
-This program is a refinement of "credit" problem in pset 1 of CS50's course, week 1.
+This project is my refined implementation of **Credit** problem from Harvard's CS50's Problem Set 1.
