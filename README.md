@@ -11,11 +11,6 @@ A C program that validates credit card numbers using **Luhn's Algorithm** and id
   - Visa
 - Input validation
 
-## Technologies
-
-- C
-- Standard Library (`stdio.h`, `stdbool.h`)
-
 ## How to Compile
 
 ```bash
