@@ -16,5 +16,5 @@ A C program that validates credit card numbers using **Luhn's Algorithm** and id
 ```bash
 gcc credit.c -o credit
 ```
-## Acknowledgement
+## Note
 This project is my refined implementation of **Credit** problem from Harvard's CS50's Problem Set 1.
